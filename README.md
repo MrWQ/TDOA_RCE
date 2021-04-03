@@ -61,7 +61,6 @@ https://lorexxar.cn/2021/03/03/tongda11-7rce/
 
 **另外别再问我怎么编译成jar包之类的问题...这个秘密我是不会说的**
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/516736/1615535591275-277e19a5-4fd1-42ff-a552-f223d241681d.png) 
 
   
 
